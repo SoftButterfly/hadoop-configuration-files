@@ -5,7 +5,7 @@ HADOOP Configuration Files
 Apache Hadoop configuration files
 
 .. image::
-    https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000?style=flat-square
+    https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000&style=flat-square
     :alt: MIT License
     :target: https://github.com/SoftButterfly/hadoop-configuration-files
 
